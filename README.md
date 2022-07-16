@@ -1,1 +1,1 @@
-Test Kivy
+Test Kivy pong game
